@@ -1,5 +1,8 @@
-# CPS employee downloader
+# CPS employee downloader: allYourEmployees.py
 This script scrapes CPS' employees from the CPS employee search tool.
+
+## usage
+`./allYourEmployees.py`
 
 Caveats:
 
